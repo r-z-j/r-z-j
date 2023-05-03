@@ -1,4 +1,3 @@
-# r-z-j
 
 # Hi there, I'm Robert!
 
