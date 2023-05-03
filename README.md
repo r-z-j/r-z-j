@@ -1,7 +1,5 @@
 # r-z-j
 
-Sure, here's a sample GitHub README file that could describe a software developer like you:
-
 # Hi there, I'm Robert!
 
 I'm a software developer with experience in Java, Spring, Node JS, React, and Vue. I love creating web applications and solving complex problems using the latest technologies.
@@ -12,11 +10,11 @@ I'm currently diving deeper into the Java Spring framework and learning more abo
 
 ## 💬 Ask me about
 
-If you have any questions about Java, JavaScript, Node.js, or Spring, feel free to ask! I'm happy to help and share my knowledge.
+If you have any questions about  JavaScript or Node.js, feel free to ask! I'm happy to help and share my knowledge.
 
 ## 📫 How to reach me
 
-You can reach me by email at robert.za.johnsongmail.com or through my LinkedIn profile at [your LinkedIn URL].
+You can reach me by email at robert.za.johnson@gmail.com or through my LinkedIn profile at [your LinkedIn URL].
 
 ## ⚡ Fun fact
 
