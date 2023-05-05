@@ -13,7 +13,7 @@ If you have any questions about  JavaScript or Node.js, feel free to ask! I'm ha
 
 ## 📫 How to reach me
 
-You can reach me by email at robert.za.johnson@gmail.com or through my LinkedIn profile at [your LinkedIn URL].
+You can reach me by email at robert.za.johnson@gmail.com or through my LinkedIn profile at https://www.linkedin.com/in/robert-z-johnson .
 
 ## ⚡ Fun fact
 
