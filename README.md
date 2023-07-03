@@ -9,7 +9,7 @@ I'm currently diving deeper into the Java Spring framework and learning more abo
 
 ## 💬 Ask me about
 
-If you have any questions about  JavaScript or Node.js, feel free to ask! I'm happy to help and share my knowledge.
+If you have any questions about  JavaScript, Node.js, or anyything related to Computer Science feel free to ask! I'm happy to help and share my knowledge.
 
 ## 📫 How to reach me
 
