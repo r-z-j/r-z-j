@@ -7,7 +7,7 @@ Software developer with experience in Java, Spring Boot, JavaScript, Node JS, an
 
 ## 🌱 What I'm currently learning
 
-I'm currently diving deeper into the Java Spring framework and learning more about its features for building robust and scalable web applications. Additionally, I'm learning about Vue.js and its ecosystem for building user interfaces and single-page applications. I believe that combining Spring with Vue.js will enable me to build modern, full-stack web applications that can handle complex use cases.
+I'm currently studying the Java Spring framework and learning more about its features for building robust and scalable web applications. Additionally, I'm learning about Vue.js and its ecosystem for building user interfaces and single-page applications. I believe that combining Spring with Vue.js will enable me to build modern, full-stack web applications that can handle complex use cases.
 
 ## 📫 How to reach me
 
