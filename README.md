@@ -1,7 +1,7 @@
 
 # Hi there, I'm Robert!
 
-Software developer with experience in Java, Spring Boot, JavaScript, Node JS, and Vue.  Studied computer science at Indiana University.  Team player committed to delivering high-quality code and learning something new every day.  
+Software developer with experience in Java, Spring Boot, JavaScript, Node JS, and Vue.  Studied computer science at Indiana University and took a deeper dive in to enterprise development through the Tech Elevator coding bootcamp.  Team player committed to delivering high-quality code and learning something new every day.  
 
 
 
