@@ -1,21 +1,9 @@
 
-# Hi there, I'm Rob!
+# Jello World
 
-Software developer with experience in Java, Spring Boot, JavaScript, Node JS, and Vue.  Studied computer science at Indiana University and took a deeper dive in to enterprise development through the Tech Elevator coding bootcamp.  Team player committed to delivering high-quality code and learning something new every day.  
-
-
-
-## 🌱 What I'm currently learning
-
-I'm currently studying the Java Spring framework and learning more about its features for building robust and scalable web applications. Additionally, I'm learning about Vue.js and its ecosystem for building user interfaces and single-page applications. I believe that combining Spring with Vue.js will enable me to build modern, full-stack web applications that can handle complex use cases.
+## 🌱 What I'm on
+I'm currently working on developing both desktop and web applications using the .NET environment. My projects involve leveraging technologies like Entity Framework Core and Razor Pages to create efficient and scalable solutions.
 
 ## 📫 How to reach me
 
-Feel free to connect with me via email or LinkedIn:
-
 - Email: robert.za.johnson@gmail.com
-- LinkedIn: www.linkedin.com/in/robert-z-johnson
-
-## ⚡ Hobbies
-
-In my free time I enjoy hiking, playing in my local soccer league, or chess!
